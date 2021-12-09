@@ -25,7 +25,7 @@
     <slf4j.version>1.7.7</slf4j.version>
     <log4j.version>1.2.17</log4j.version>
     <!-- json 相关 -->
-    <jackson.version>2.9.3</jackson.version>
+    <jackson.version>2.9.10.8</jackson.version>
   </properties>
 
   <dependencies>
